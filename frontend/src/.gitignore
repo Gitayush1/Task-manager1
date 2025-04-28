@@ -1,0 +1,77 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build directories
+/build/
+/dist/
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# React build artifacts
+/build/
+/public/
+
+# Dependency directories
+/node_modules/
+
+# React App specific
+/.next/
+/.cache/
+
+# React Native
+.expo/
+
+# Backend specific
+# Temporary files and backups
+*.bak
+*.swp
+
+# Database files (if any)
+*.sqlite
+*.db
+*.log
+
+# Coverage folder for testing tools like Jest
+/coverage/
+
+# npm and yarn logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Package managers
+/package-lock.json
+/yarn.lock
+
+# Webpack, Babel and other bundler/cache files
+/.webpack
+/.babelrc
+
+# Frontend node_modules
+/frontend/node_modules/
+
+# Backend node_modules
+/backend/node_modules/
+
+# Ignore build output
+/backend/dist/
+/frontend/build/
